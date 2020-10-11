@@ -15,3 +15,10 @@ body {
 .userGuesses {
     font-size: 21px;
 }
+
+.rightWrongGuess {
+    background-color: green;
+    padding: 5px 50px 5px 50px;
+    border-radius: 5px;
+    color: white;
+}
